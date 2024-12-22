@@ -1,4 +1,4 @@
-# Google Ads Client Library for .NET
+ Google Ads Client Library for .NET
 
 This project hosts the .NET client library for the Google Ads API.
 
